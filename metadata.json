@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumière Virtual Stylist",
+  "description": "An AI-powered fashion assistant that creates curated outfits from your single items and helps you visualize them through high-quality flat-lay generations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
